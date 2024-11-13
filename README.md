@@ -1,0 +1,2 @@
+# BMI Calc
+**BMI Calc** est une application simple qui calcule l'indice de Masse Corporelle (IMC) d'un utilisateur en fonction de son poids et de sa taille. En utilisant des valeurs d'entrée le programme évalue l'IMC et la classe dans une catégorie de poids standard.
